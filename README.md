@@ -18,6 +18,7 @@ from app import TranscriptProcessor
 llm = LLM('falcon').get_pipeline()
 tp = TranscriptProcessor(llm,video_id = '9QiE-M1LrZk')
 answer = tp.get_answer('what are some examples of high dopamine behaviours?')
+'''
 
 ## References
 
