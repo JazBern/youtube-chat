@@ -9,6 +9,7 @@ pip install youtube_transcript_api
 pip install -qq -U langchain tiktoken chromadb faiss-gpu
 pip install -qq -U transformers InstructorEmbedding sentence_transformers
 pip install -qq -U accelerate bitsandbytes xformers einops
+```
 
 ## Usage
 
